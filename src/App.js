@@ -35,7 +35,7 @@ function App() {
     <nav className="App">
       <ul>
         <Link to='/'><li>Home</li></Link>
-        <Link to='/Category'><li>Category</li></Link>
+        <Link to='/Category'><li>Categorys</li></Link>
         <Link to='/Products'><li>Products</li></Link>
         <Link to='/AdminArea'><li>Admin area</li></Link>
       </ul>
